@@ -8,7 +8,8 @@ export default function App() {
 
   return (
     <div className='container'>
-      <h1>React JavaScript OTP Input devstar0202</h1>
+      <h1>React JavaScript OTP Input</h1>
+      <a target="#" href="https://github.com/massimo1220">visit creator</a>
       <br/>
       <br/>
       <OtpInput value={otp} valueLength={6} onChange={onChange} />
